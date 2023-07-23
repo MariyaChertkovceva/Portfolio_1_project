@@ -22,7 +22,7 @@
 + [Табл.2 - Категория](https://mega.nz/file/hzRC3D7b#vaQQrMz3upiV3j-puWwKvfV35R0Dv6AkfjszusMm2e0)
 + [Табл.3 - Подкатегория](https://mega.nz/file/VroyDJKJ#XIp27KAMN4M3V1tyBEUY-Xo-F_EzwJ3t5szeSExTxUo)
 
-+ Environmental needs
+6. Environmental needs
 
 Google Chrome, Яндекс.Браузер, Opera, Safari
 
