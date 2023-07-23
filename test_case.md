@@ -1,15 +1,14 @@
 В качестве примера, на сайте Яндекс-маркет был выделен объект “Авторизация”, по которому был составлен чек-лист на позитивные и негативные проверки, а также разработаны тест-кейсы. 
 В примерах на скриншотах показано умение составлять тест-кейсы в простом документе и с использованием инструментов, в данном случае использовалось приложение Testlink.
 
-‍| Чек-лист "Авторизация"|
-|-----------------------|
-| позитивные            |
-|-----------------------|
-| 1.Авторизация с верным логином и паролем |  [Тест кейс](https://mega.nz/file/Ej5xmCIK#DDZXPjW1NNR3bZ1q7FDBWNCEu2ELTQIAWT9t3B8XYls) |
-| 2.Авторизация с верным email и паролем |  [Тест кейс](https://mega.nz/file/4v4S0IgL#Vm3gLnAGbCySfknIPLZn9h6s8Kc_-wbp8lxgDQIcsHU) |
-| 3.Авторизация с верным номером телефона и паролем | -[Тест кейс](https://mega.nz/file/pzYklZIB#BIIDKgy1jfKU6BO8rknU0tgkbvfnDLw0lE6dT0begr8) |
-| 4.Авторизация с помощью ВК | [Тест кейс](https://mega.nz/file/oqJCSAhL#A1Yb2_R7w-KGM2VUWyCP0klhPY0dwmjNa3VhbqN10Ss) |
-негативные
+‍|Чек-лист "Авторизация"|Тест-кейсы|
+|-----------------------|----|
+|1.Авторизация с верным логином и паролем|[Тест кейс](https://mega.nz/file/Ej5xmCIK#DDZXPjW1NNR3bZ1q7FDBWNCEu2ELTQIAWT9t3B8XYls)|
+|2.Авторизация с верным email и паролем|[Тест кейс](https://mega.nz/file/4v4S0IgL#Vm3gLnAGbCySfknIPLZn9h6s8Kc_-wbp8lxgDQIcsHU)|
+|3.Авторизация с верным номером телефона и паролем|[Тест кейс](https://mega.nz/file/pzYklZIB#BIIDKgy1jfKU6BO8rknU0tgkbvfnDLw0lE6dT0begr8)|
+|4.Авторизация с помощью ВК|[Тест кейс](https://mega.nz/file/oqJCSAhL#A1Yb2_R7w-KGM2VUWyCP0klhPY0dwmjNa3VhbqN10Ss)|
+
+негативны
 5.Невозможность авторизации с неверным email
 Кейс
 Скрин
