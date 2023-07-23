@@ -1,11 +1,11 @@
 В качестве примера, на сайте Яндекс-маркет был выделен объект “Авторизация”, по которому был составлен чек-лист на позитивные и негативные проверки, а также разработаны тест-кейсы. 
 В примерах на скриншотах показано умение составлять тест-кейсы в простом документе и с использованием инструментов, в данном случае использовалось приложение Testlink.
 
-‍|Чек-лист "Авторизация"                           |Тест-кейсы|
-|-------------------                              |----|
-|Авторизация с верным логином и паролем         |[Тест кейс](https://mega.nz/file/Ej5xmCIK#DDZXPjW1NNR3bZ1q7FDBWNCEu2ELTQIAWT9t3B8XYls)|
-|Авторизация с верным email и паролем           |[Тест кейс](https://mega.nz/file/4v4S0IgL#Vm3gLnAGbCySfknIPLZn9h6s8Kc_-wbp8lxgDQIcsHU)|
-|Авторизация с верным номером телефона и паролем|[Тест кейс](https://mega.nz/file/pzYklZIB#BIIDKgy1jfKU6BO8rknU0tgkbvfnDLw0lE6dT0begr8)|
-|Авторизация с помощью ВК                       |[Тест кейс](https://mega.nz/file/oqJCSAhL#A1Yb2_R7w-KGM2VUWyCP0klhPY0dwmjNa3VhbqN10Ss)|
+|Чек-лист Авторизация"                        |Отчет    |Скрин Redmine|
+|------------------------                     |-------  |----- |
+|Авторизация с верным логином и паролем |[Отчет](https://mega.nz/file/tuYzkSja#8eJ8tijLohepqTQGvNgzKkr50ilSj0mNPzEGIJ1rMhs)|[Скрин](https://mega.nz/file/12Jy0AyS#E-7bQ19vaw-RNd7NRCWOZDGXYxrnqnRiiiMHjIWzKbI)|
+|Авторизация с верным email и паролем|[Отчет](https://mega.nz/file/EyQgmYwT#avtetVO8RFhUbXZTUjkMbrG17tt12HUex-RfwV27hvQ)|[Скрин](https://mega.nz/file/k7hHzADL#Ew1DJ0Oh1e-eGToFhj7HkUlM_MboBVN2El7pK_MxNdU)|
+|Авторизация с верным номером телефона и паролем|Отчет |
+|Авторизация с помощью ВК|Отчет |
 
 
